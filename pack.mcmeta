@@ -31,7 +31,8 @@
 				"formats": {
 					"min_inclusive": 48,
 					"max_inclusive": 999
-				}
+				},"max_format": 999,
+				"min_format": 48
 			}
 		]
 	}

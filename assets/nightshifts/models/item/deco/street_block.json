@@ -4,7 +4,8 @@
 		"0": "nightshifts:block/rust",
 		"1": "block/polished_tuff",
 		"2": "nightshifts:block/rust2",
-		"particle": "nightshifts:block/rust"
+		"particle": "nightshifts:block/rust",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

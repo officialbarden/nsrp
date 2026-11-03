@@ -4,7 +4,8 @@
 	"textures": {
 		"0": "nightshifts:block/fire_extinguisher/main",
 		"1": "nightshifts:block/fire_extinguisher/main2",
-		"particle": "nightshifts:block/fire_extinguisher/main"
+		"particle": "nightshifts:block/fire_extinguisher/main",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

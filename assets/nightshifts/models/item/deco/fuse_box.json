@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "nightshifts:block/fuse_box/door",
-		"particle": "nightshifts:block/fuse_box/door"
+		"particle": "nightshifts:block/fuse_box/door",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

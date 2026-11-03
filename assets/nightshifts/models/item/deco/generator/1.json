@@ -6,7 +6,8 @@
 		"1": "nightshifts:item/props/generator/black2",
 		"2": "nightshifts:item/props/generator/black",
 		"3": "nightshifts:item/props/generator/black3",
-		"particle": "nightshifts:item/props/generator/main"
+		"particle": "nightshifts:item/props/generator/main",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

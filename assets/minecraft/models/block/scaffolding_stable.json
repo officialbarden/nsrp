@@ -3,7 +3,8 @@
 	"textures": {
 		"0": "block/polished_granite",
 		"1": "block/gilded_blackstone",
-		"particle": "block/polished_granite"
+		"particle": "block/polished_granite",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

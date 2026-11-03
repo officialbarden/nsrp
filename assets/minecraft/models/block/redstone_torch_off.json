@@ -3,7 +3,8 @@
 	"textures": {
 		"1": "nightshifts:block/red_light/black_frame",
 		"2": "nightshifts:block/red_light/red_glass_off",
-		"particle": "nightshifts:block/red_light/red_glass_off"
+		"particle": "nightshifts:block/red_light/red_glass_off",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

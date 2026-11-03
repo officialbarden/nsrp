@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"5": "nightshifts:item/wall_graffiti/7",
-		"particle": "nightshifts:item/wall_graffiti/7"
+		"particle": "nightshifts:item/wall_graffiti/7",
+		"missing": "item/purple_concrete"
 	},
 	"elements": [
 		{

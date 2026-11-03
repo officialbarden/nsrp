@@ -3,7 +3,8 @@
 	"textures": {
 		"0": "nightshifts:block/rust5",
 		"1": "nightshifts:item/text/no_tresspassing",
-		"particle": "nightshifts:block/rust5"
+		"particle": "nightshifts:block/rust5",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

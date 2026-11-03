@@ -4,7 +4,8 @@
 		"0": "nightshifts:block/dumpster/3",
 		"1": "nightshifts:block/dumpster/2",
 		"2": "nightshifts:block/dumpster/1",
-		"particle": "nightshifts:block/dumpster/3"
+		"particle": "nightshifts:block/dumpster/3",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

@@ -3,7 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "nightshifts:item/deco/decals/hanging_stars",
-		"particle": "nightshifts:item/deco/decals/hanging_stars"
+		"particle": "nightshifts:item/deco/decals/hanging_stars",
+		"missing": "block/purple_concrete"
 	},
 	"elements": [
 		{

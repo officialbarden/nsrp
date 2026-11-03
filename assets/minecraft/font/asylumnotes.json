@@ -1,0 +1,43 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "xllifi:font/asylumnotes/asciicyr.png",
+            "height": 12,
+            "ascent": 10,
+            "chars": [
+                "1234567890",
+                "!\"#$%&'()*",
+                "+,-./:;<=>",
+                "?@[\\]^_`{|",
+                "}~АБВГДЕЁЖ",
+                "ЗИЙКЛМНОПР",
+                "СТУФХЦЧШЩЪ",
+                "ЫЬЭЮЯABCDE",
+                "FGHIJKLMNO",
+                "PQRSTUVWXY",
+                "Z"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "xllifi:font/asylumnotes/latcyrlowercase.png",
+            "height": 10,
+            "ascent": 9,
+            "chars": [
+                "абвгдеёжзи",
+                "йклмнопрст",
+                "уфхцчшщъыь",
+                "эюяabcdefg",
+                "hijklmnopq",
+                "rstuvwxyz"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 6
+            }
+        }
+    ]
+}

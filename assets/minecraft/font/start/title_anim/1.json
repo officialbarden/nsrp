@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "nightshifts:pinkdelaydeepecho.ttf",
+            "shift": [0.0,5.0],
+            "size": 3,
+            "oversample": 30.0
+        }
+    ]
+}

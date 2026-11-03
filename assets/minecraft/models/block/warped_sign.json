@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "nightshifts:block/e",
+		"particle": "nightshifts:block/e"
+	},
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [75, -135, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, -90, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "handrest",
+			"origin": [7, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "handrest",
+			"origin": [7, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "seat",
+			"origin": [9.61453, 7.48029, 1],
+			"color": 0,
+			"children": []
+		}
+	]
+}

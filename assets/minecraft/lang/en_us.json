@@ -1,0 +1,19 @@
+{
+    "effect.minecraft.saturation": "Night Shifts",
+    "container.crafting":" ",
+    "mount.onboard": " ",
+    "resourcepack.loaded_message" : "Press the Button to Continue.",
+    "resourcepack.loaded_button" : "Continue.",
+    "book.pageIndicator": "© A.R.I.A",
+    "book.page_button.next": " ",
+    "book.page_button.previous": " ",
+    "report.anomaly.encounter.1":"Communication via Spirit Box",
+    "report.anomaly.encounter.2":"EMF Level 5 or Above",
+    "report.anomaly.encounter.3":"Visual Confirmation",
+    "report.anomaly.encounter.4":"Fingerprints",
+    "report.anomaly.encounter.5":"Temperature Change",
+    "report.anomaly.encounter.6":"Anomaly Induced Hallucinations",
+    "report.anomaly.nature.1":"Docile",
+    "report.anomaly.nature.2":"Hostile but not Lethal",
+    "report.anomaly.nature.3":"Lethal"
+}

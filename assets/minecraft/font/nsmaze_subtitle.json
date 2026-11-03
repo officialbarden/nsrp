@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "nightshifts:vcr_mono.ttf",
+            "shift": [0.0,30.0],
+            "size": 3,
+            "oversample": 10.0
+        }
+    ]
+}

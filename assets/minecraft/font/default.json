@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:dark.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE000"]
+        }
+    ]
+}

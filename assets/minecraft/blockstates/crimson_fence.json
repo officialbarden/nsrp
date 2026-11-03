@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ 
+        { "model": "block/crimson_fence_post", "weight":1 },
+        { "model": "block/crimson_fence_post_2", "weight":1 },
+        { "model": "block/crimson_fence_post_3", "weight":1 }
+ ]   }
+}

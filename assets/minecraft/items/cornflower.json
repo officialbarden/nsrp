@@ -1,0 +1,26 @@
+{
+    "model":{
+        "type":"range_dispatch",
+        "property":"custom_model_data",
+        "fallback":{
+            "type":"model",
+            "model":"item/cornflower"
+        },
+        "entries":[
+            {
+                "threshold":60003,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/deco/elevator"
+                }
+            },
+            {
+                "threshold":70001,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/hazmat/helmet"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "hand_animation_on_swap": false,
+    "model":{
+        "type":"range_dispatch",
+        "property":"custom_model_data",
+        "fallback":{
+            "type":"model",
+            "model":"item/poisonous_potato"
+        },
+        "entries":[
+            {
+                "threshold": 1100,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/unlit"
+                }
+            },
+            {
+                "threshold": 1101,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/1"
+                }
+            },
+            {
+                "threshold": 1102,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/2"
+                }
+            },
+            {
+                "threshold": 1103,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/3"
+                }
+            },
+            {
+                "threshold": 1104,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/4"
+                }
+            },
+            {
+                "threshold": 1105,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/5"
+                }
+            },
+            {
+                "threshold": 1106,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/emf_reader/6"
+                }
+            },
+            {
+                "threshold": 1201,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/fuse/main"
+                }
+            },
+            {
+                "threshold": 1202,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/fuse/burnt"
+                }
+            },
+            {
+                "threshold": 1250,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/gui_icon/fuse/main"
+                }
+            },
+            {
+                "threshold": 1300,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/key"
+                }
+            },
+            {
+                "threshold": 1350,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/gui_icon/key"
+                }
+            },
+            {
+                "threshold": 1400,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/o2canister"
+                }
+            },
+            {
+                "threshold": 1450,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/gui_icon/o2canister"
+                }
+            },
+            {
+                "threshold": 1500,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/deco/board/maplewood_plaza"
+                }
+            },
+            {
+                "threshold": 1600,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/deco/fire_extinguisher"
+                }
+            },
+            {
+                "threshold": 1700,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/broom"
+                }
+            },
+            {
+                "threshold": 1800,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/radio/main"
+                }
+            },
+            {
+                "threshold": 1900,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/spirit_box/main"
+                }
+            },
+            {
+                "threshold": 2000,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/polaroid"
+                }
+            },
+            {
+                "threshold": 2100,
+                "model":{
+                    "type":"model",
+                    "model":"nightshifts:item/tools/flashlight/1"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+	"pack": {
+        "pack_format": 75,
+        "min_format": 75,
+        "max_format": 999,
+	   "description": [
+			{
+				"text": "NIGHT",
+				"color": "#d6d6d6",
+				"font": "minecraft:uniform",
+				"bold": true
+			},
+			{
+				"text": "SHIFTS",
+				"color": "#800000",
+				"font": "minecraft:uniform",
+				"bold": true
+			},
+			{
+				"text": " v1.0.0",
+				"color": "gray",
+				"font": "minecraft:uniform",
+				"bold": false
+			}
+		]
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "animated_java",
+				"formats": {
+					"min_inclusive": 48,
+					"max_inclusive": 999
+				}
+			}
+		]
+	}
+}

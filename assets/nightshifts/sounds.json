@@ -1,0 +1,235 @@
+{
+    "ambience":{
+        "sounds":[
+            "nightshifts:ambience/1",
+            "nightshifts:ambience/2",
+            "nightshifts:ambience/3"
+        ]
+    },
+    "mist.ambience":{
+        "sounds":[
+            "nightshifts:ambience/mist/1"
+        ]
+    },
+    "music.maplewood_mall_muffled":{
+        "sounds":[
+            "nightshifts:music/maplewood_mall_muffled/runningupthathill",
+            "nightshifts:music/maplewood_mall_muffled/vhs_logos"
+        ]
+    },
+    "sfx.enemies.the_butcher.drag.walk2":{
+        "sounds":[
+            "nightshifts:sfx/enemies/the_butcher/drag.walk2"
+        ]
+    },
+    "sfx.extras.led":{
+        "sounds": [
+            "nightshifts:sfx/extras/led"
+        ]
+    },
+    "sfx.extras.light_toggle":{
+        "sounds": [
+            "nightshifts:sfx/extras/light_toggle"
+        ]
+    },
+    "sfx.extras.elevator.reached":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_reached"
+        ]
+    },
+    "sfx.extras.elevator.open":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_door_open"
+        ]
+    },
+    "sfx.extras.elevator.button":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_button"
+        ]
+    },
+    "sfx.extras.elevator.move":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_move"
+        ]
+    },
+    "sfx.extras.elevator.floor_pass":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_floor_pass"
+        ]
+    },
+    "sfx.extras.elevator.ambience":{
+        "sounds": [
+            "nightshifts:sfx/extras/elevator_ambience_loop"
+        ]
+    },
+    "sfx.tools.fuse_box.door_open":{
+        "sounds": [
+            "nightshifts:sfx/tools/fuse_box/door_open"
+        ]
+    },
+    "sfx.tools.fuse_box.door_close":{
+        "sounds": [
+            "nightshifts:sfx/tools/fuse_box/door_close"
+        ]
+    },
+    "sfx.tools.fuse_box.fuse_shock":{
+        "sounds": [
+            "nightshifts:sfx/tools/fuse_box/fuse_shock"
+        ]
+    },
+    "sfx.tools.fuse_box.fuse_remove":{
+        "sounds": [
+            "nightshifts:sfx/tools/fuse_box/fuse_remove"
+        ]
+    },
+    "sfx.extras.door_open":{
+        "sounds": [
+            "nightshifts:sfx/extras/door_open"
+        ]
+    },
+    "sfx.oxygen_deplete":{
+        "sounds": [
+            "nightshifts:sfx/oxygen_deplete"
+        ]
+    },
+    "sfx.radar":{
+        "sounds": [
+            "nightshifts:sfx/radar"
+        ]
+    },
+    "sfx.enemies.slasher.step":{
+        "sounds": [
+            "nightshifts:sfx/enemies/slasher/step1",
+            "nightshifts:sfx/enemies/slasher/step2",
+            "nightshifts:sfx/enemies/slasher/step3",
+            "nightshifts:sfx/enemies/slasher/step4"
+        ]
+    },
+    "sfx.enemies.slasher.axe.woosh":{
+        "sounds": [
+            "nightshifts:sfx/enemies/slasher/axe_woosh1",
+            "nightshifts:sfx/enemies/slasher/axe_woosh2"
+        ]
+    },
+    "sfx.enemies.slasher.axe.hit":{
+        "sounds": [
+            "nightshifts:sfx/enemies/slasher/axe_hit1"
+        ]
+    },
+    "sfx.extras.horror_screech.start":{
+        "sounds":["nightshifts:sfx/extras/horror_screech/start"]
+    },
+    "sfx.extras.horror_screech.loop":{
+        "sounds":["nightshifts:sfx/extras/horror_screech/loop"]
+    },
+    "sfx.extras.horror_screech.stop":{
+        "sounds":["nightshifts:sfx/extras/horror_screech/stop"]
+    },
+    "music.main_menu":{
+        "sounds": [
+            "nightshifts:music/nightshiftstheme"
+        ]
+    },
+    "sfx.tools.radio.idle":{
+        "sounds": [
+            "nightshifts:sfx/tools/radio/idle1"
+        ]
+    },
+    "sfx.tools.radio.use":{
+        "sounds": [
+            "nightshifts:sfx/tools/radio/use"
+        ]
+    },
+    "sfx.tools.radio.garble":{
+        "sounds": [
+            "nightshifts:sfx/tools/radio/garble1",
+            "nightshifts:sfx/tools/radio/garble2",
+            "nightshifts:sfx/tools/radio/garble3",
+            "nightshifts:sfx/tools/radio/garble4",
+            "nightshifts:sfx/tools/radio/garble5"
+        ]
+    },
+    "sfx.tools.radio.chatter":{
+        "sounds": [
+            "nightshifts:sfx/tools/radio/chatter1",
+            "nightshifts:sfx/tools/radio/chatter2",
+            "nightshifts:sfx/tools/radio/chatter3"
+        ]
+    },
+    "sfx.tools.spirit_box.white_noise":{
+        "sounds": [
+            "nightshifts:sfx/tools/spirit_box/white_noise"
+        ]
+    },
+    "sfx.extras.typing":{
+        "sounds": [
+            "nightshifts:sfx/extras/typing/1",
+            "nightshifts:sfx/extras/typing/2",
+            "nightshifts:sfx/extras/typing/3"
+        ]
+    },
+    "sfx.tools.polaroid.click":{
+        "sounds": [
+            "nightshifts:sfx/tools/polaroid/click1",
+            "nightshifts:sfx/tools/polaroid/click2"
+        ]
+    },
+    "sfx.tools.flashlight.click":{
+        "sounds": [
+            "nightshifts:sfx/tools/flashlight/click"
+        ]
+    },
+    "music.maplewoodmalltheme":{
+        "sounds": [
+            "nightshifts:music/maplewoodmalltheme"
+        ]
+    },
+    "sfx.enemies.the_nun.step":{
+        "sounds":[
+            "nightshifts:sfx/enemies/the_nun/step1",
+            "nightshifts:sfx/enemies/the_nun/step2",
+            "nightshifts:sfx/enemies/the_nun/step3",
+            "nightshifts:sfx/enemies/the_nun/step4"
+        ]
+    },
+    "sfx.enemies.the_nun.knife":{
+        "sounds":[
+            "nightshifts:sfx/enemies/the_nun/knife1",
+            "nightshifts:sfx/enemies/the_nun/knife2"
+        ]
+    },
+    "sfx.enemies.the_nun.scream":{
+        "sounds":[
+            "nightshifts:sfx/enemies/the_nun/scream1",
+            "nightshifts:sfx/enemies/the_nun/scream2"
+        ]
+    },
+    "sfx.enemies.the_nun.cry":{
+        "sounds":[
+            "nightshifts:sfx/enemies/the_nun/cry1",
+            "nightshifts:sfx/enemies/the_nun/cry2",
+            "nightshifts:sfx/enemies/the_nun/cry3",
+            "nightshifts:sfx/enemies/the_nun/cry4"
+        ]
+    },
+    "sfx.tools.emf_reader.level.2":{
+        "sounds":[
+            "nightshifts:sfx/tools/emf_reader/2"
+        ]
+    },
+    "sfx.tools.emf_reader.level.3":{
+        "sounds":[
+            "nightshifts:sfx/tools/emf_reader/3"
+        ]
+    },
+    "sfx.tools.emf_reader.level.4":{
+        "sounds":[
+            "nightshifts:sfx/tools/emf_reader/4"
+        ]
+    },
+    "sfx.tools.emf_reader.level.5":{
+        "sounds":[
+            "nightshifts:sfx/tools/emf_reader/5"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "nightshifts:vt323.ttf",
+            "shift": [0.0,0.0],
+            "size": 40,
+            "oversample": 2.0
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "targets": {
+        "main":{}
+    },
+    "passes": [
+        {
+            "vertex_shader": "minecraft:core/pixelate",
+            "fragment_shader": "minecraft:post/pixelate",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:main"
+                }
+            ],
+            "output": "minecraft:main",
+            "uniforms": {
+                "PixelStrength": [
+                    {
+                        "name": "PixelStrength",
+                        "type": "float",
+                        "value": 50.0
+                    }
+                ]
+            }
+        }
+    ]
+}

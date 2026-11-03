@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "nightshifts:afontwithserifs.ttf",
+            "size": 15,
+            "oversample": 100,
+            "shift": [0,0]
+        }
+    ]
+}

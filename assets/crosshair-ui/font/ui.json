@@ -1,0 +1,33 @@
+{
+	"providers": [
+
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/pick.png",
+            "height":2,
+            "ascent":-6,
+            "chars":["\uE001"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/door_open.png",
+            "height":2,
+            "ascent":-6,
+            "chars":["\uE002"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/observe.png",
+            "height":6,
+            "ascent":-6,
+            "chars":["\uE003"]
+        },
+        {
+            "type":"bitmap",
+            "file":"crosshair-ui:ui/barrel.png",
+            "height":6,
+            "ascent":-6,
+            "chars":["\uE004"]
+        }
+	]
+}
